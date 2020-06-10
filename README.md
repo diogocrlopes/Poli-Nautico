@@ -1,2 +1,2 @@
-# Poli-N-utico
+# Poli-Nautico
 Projeto e construção da embarcação Baleia
